@@ -7,10 +7,19 @@ title: About
 order: 1
 author_profile: true
 ---
-
-<div class="row">
-  <div class="column"><img src="/images/Romaine_7.png" height="200" width="200"></div>
+ <!-- Side navigation -->
+<div class="sidenav">
+  <div><img src="images/Romaine_7.png" height="200" width="200"></div>
+  <a href="#">About</a>
+  <a href="#">Services</a>
+  <a href="#">Clients</a>
+  <a href="#">Contact</a>
 </div>
+
+<!-- Page content -->
+<div class="main">
+  ...
+</div> 
 
 Email Address: rcampbell@g.harvard.edu
 Twitter: @romcampbell
